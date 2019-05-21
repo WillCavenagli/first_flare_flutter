@@ -7,4 +7,4 @@ Link: https://www.2dimensions.com/a/willcavenagli/files/flare/zakk-wylde/preview
 
 ## Preview
 
-![alt text](https://i.imgur.com/9TQf5Ev.jpg)
+![alt text](https://i.imgur.com/9TQf5Ev.jpg | width=100)
